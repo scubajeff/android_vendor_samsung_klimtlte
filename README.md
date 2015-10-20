@@ -1,2 +1,1 @@
-# android_vendor_samsung_klimtlte
-Vendor proprietary files
+Vendor proprietary files for Samsung T705
