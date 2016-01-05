@@ -18,7 +18,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/klimtlte/proprietary/vendor/firmware/srp_cga.bin:system/vendor/firmware/srp_cga.bin \
     vendor/samsung/klimtlte/proprietary/vendor/firmware/srp_data.bin:system/vendor/firmware/srp_data.bin \
     vendor/samsung/klimtlte/proprietary/vendor/firmware/srp_vliw.bin:system/vendor/firmware/srp_vliw.bin \
-    vendor/samsung/klimtlte/proprietary/vendor/firmware/bcm4350.hcd:system/vendor/firmware/bcm4350.hcd \
+    vendor/samsung/klimtlte/proprietary/vendor/firmware/bcm4350_V0301.0609.hcd:system/vendor/firmware/bcm4350_V0301.0609.hcd \
     vendor/samsung/klimtlte/proprietary/lib/hw/camera.vendor.universal5420.so:system/lib/hw/camera.vendor.universal5420.so \
     vendor/samsung/klimtlte/proprietary/lib/libak09911c.so:system/lib/libak09911c.so \
     vendor/samsung/klimtlte/proprietary/lib/libarcsoft_flawlessface.so:system/lib/libarcsoft_flawlessface.so \
