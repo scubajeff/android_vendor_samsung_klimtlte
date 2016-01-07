@@ -63,7 +63,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/klimtlte/proprietary/vendor/lib/libmalicore.bc:system/vendor/lib/libmalicore.bc \
     vendor/samsung/klimtlte/proprietary/vendor/lib/libRSDriverArm.so:system/vendor/lib/libRSDriverArm.so \
     vendor/samsung/klimtlte/proprietary/bin/gpsd:system/bin/gpsd \
-    vendor/samsung/klimtlte/proprietary/bin/gps.cer:system/bin/gps.cer \
     vendor/samsung/klimtlte/proprietary/etc/gps.conf:system/etc/gps.conf \
     vendor/samsung/klimtlte/proprietary/etc/gps.xml:system/etc/gps.xml \
     vendor/samsung/klimtlte/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
