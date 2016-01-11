@@ -31,6 +31,7 @@ PRODUCT_COPY_FILES += \
 #GPS
 PRODUCT_COPY_FILES += \
     vendor/samsung/klimtlte/proprietary/bin/gpsd:system/bin/gpsd \
+    vendor/samsung/klimtlte/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
     vendor/samsung/klimtlte/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so
 
 #GPS - Config TODO: Move to device
