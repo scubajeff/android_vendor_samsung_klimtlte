@@ -43,6 +43,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/klimtlte/proprietary/sbin/sswap:root/sbin/sswap
 
 #MediaDRM
-PRODUCT_COPY_FILES += \
+PRODUCT_COPY_FILES_NN += \
     vendor/samsung/klimtlte/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
 
