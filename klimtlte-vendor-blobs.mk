@@ -31,10 +31,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/samsung/klimtlte/proprietary/etc/gps.xml:system/etc/gps.xml
 
-#SSWAP - Needed?
-PRODUCT_COPY_FILES += \
-    vendor/samsung/klimtlte/proprietary/sbin/sswap:root/sbin/sswap
-
 #NXP Sound effect
 PRODUCT_COPY_FILES += \
     vendor/samsung/klimtlte/proprietary/vendor/etc/nxp/mVoIP/Tx_ControlParams_WIDEBAND_EARPIECE.txt:system/vendor/etc/nxp/mVoIP/Tx_ControlParams_WIDEBAND_EARPIECE.txt \
