@@ -13,14 +13,9 @@
 # limitations under the License.
 
 #RIL
-#libGLES_trace.so needed as else protobuf error
 PRODUCT_COPY_FILES += \
     vendor/samsung/klimtlte/proprietary/sbin/cbd:system/bin/cbd \
     vendor/samsung/klimtlte/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so
-
-#Bluetooth firmware
-PRODUCT_COPY_FILES += \
-    vendor/samsung/klimtlte/proprietary/vendor/firmware/bcm4350_V0301.0609.hcd:system/vendor/firmware/bcm4350_V0301.0609.hcd
 
 #Sensors
 #Binary file DBT-T800XXU1BOJ1-20151023095433/system/lib/hw/sensors.universal5420.so matches
